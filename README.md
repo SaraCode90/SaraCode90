@@ -1,4 +1,6 @@
-#### Material's scientist exploring the FrontEnd world 🌱
+#### Materials scientist exploring the FrontEnd world 🌱
+- Currently learning JaveScript, HTML and CSS through Scrimba and other sources😄
+- On Maternity leave from May 2022 👯
 <!--
 **SaraCode90/SaraCode90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
